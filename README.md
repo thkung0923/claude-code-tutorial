@@ -19,7 +19,8 @@
 
 | 章節 | 說明 | 下載 |
 |------|------|------|
-| 第一章 v2 | 加班猝死？不是吧（字幕同步修正，3 分鐘） | [Novel_Demo_Ch1_v2.mp4](https://github.com/thkung0923/claude-code-tutorial/raw/master/Novel_Demo_Ch1_v2.mp4) |
+| 第一章 v3 | Whisper 精確字幕同步（推薦） | [Novel_Demo_Ch1_v3.mp4](https://github.com/thkung0923/claude-code-tutorial/raw/master/Novel_Demo_Ch1_v3.mp4) |
+| 第一章 v2 | edge-tts 時間戳同步 | [Novel_Demo_Ch1_v2.mp4](https://github.com/thkung0923/claude-code-tutorial/raw/master/Novel_Demo_Ch1_v2.mp4) |
 | 第一章 v1 | 舊版（字幕不同步） | [Novel_Demo_Ch1.mp4](https://github.com/thkung0923/claude-code-tutorial/raw/master/Novel_Demo_Ch1.mp4) |
 
 ## 其他檔案
