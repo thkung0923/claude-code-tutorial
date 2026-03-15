@@ -15,6 +15,12 @@
 |------|------|------|
 | 讀稿 Demo | 背景圖 + 轉場 + BGM + 字幕（71 秒） | [Demo_Narration.mp4](https://github.com/thkung0923/claude-code-tutorial/raw/master/Demo_Narration.mp4) |
 
+## 小說說書 Demo — 替身無極
+
+| 章節 | 說明 | 下載 |
+|------|------|------|
+| 第一章 | 加班猝死？不是吧（2 分 48 秒） | [Novel_Demo_Ch1.mp4](https://github.com/thkung0923/claude-code-tutorial/raw/master/Novel_Demo_Ch1.mp4) |
+
 ## 其他檔案
 
 - [PPT 簡報](https://github.com/thkung0923/claude-code-tutorial/raw/master/Claude_Code_Tutorial.pptx)
